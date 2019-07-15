@@ -6,3 +6,5 @@ end
 make_sandwich("gator", "gumbo") do |innards|
   "#{innards} on rye"
 end #
+
+map_to_negativize ({1, 2, 3, -9})
